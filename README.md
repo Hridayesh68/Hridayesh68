@@ -41,6 +41,10 @@
 └─────────────────────────────────────────────────────────────────┘
 ```
 
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="500" alt="coder gif"/>
+</div>
+
 ---
 
 ## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"> &nbsp; `ACTIVE QUESTS`
@@ -117,7 +121,7 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Hridayesh68&show_icons=true&theme=radical&border_color=7c3aed&bg_color=0d0d1a&title_color=00fff0&icon_color=a78bfa&text_color=e2e8f0&hide_border=false&include_all_commits=true&rank_icon=github" width="49%" />
+<img src="https://github-readme-stats.vercel.app/api?username=Hridayesh68&show_icons=true&theme=radical&border_color=7c3aed&bg_color=0d0d1a&title_color=00fff0&icon_color=a78bfa&text_color=e2e8f0&hide_border=false&count_private=true&rank_icon=github" width="49%" />
 <img src="https://github-readme-streak-stats.herokuapp.com?user=Hridayesh68&theme=radical&background=0d0d1a&border=7c3aed&ring=00fff0&fire=ff6b6b&currStreakLabel=a78bfa&sideLabels=e2e8f0&dates=718096" width="49%" />
 
 <br/><br/>
@@ -132,7 +136,20 @@
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Hridayesh68&theme=radical&no-frame=true&no-bg=false&margin-w=8&column=7" width="100%"/>
+<!-- Primary trophy source -->
+<img src="https://github-profile-trophy.vercel.app/?username=Hridayesh68&theme=radical&no-frame=true&no-bg=true&margin-w=10&column=6" onerror="this.style.display='none';document.getElementById('trophy-fallback').style.display='block'" width="100%"/>
+
+<!-- Fallback: manual achievement badges -->
+<div id="trophy-fallback">
+
+![Commits](https://img.shields.io/badge/🏆_Commits-Enthusiast-ff6b6b?style=for-the-badge&labelColor=0d0d1a)
+![Repos](https://img.shields.io/badge/🥇_Repos-MultiVerse-a78bfa?style=for-the-badge&labelColor=0d0d1a)
+![Stars](https://img.shields.io/badge/⭐_Stars-Rising-00fff0?style=for-the-badge&labelColor=0d0d1a)
+![Followers](https://img.shields.io/badge/👥_Followers-Growing-06b6d4?style=for-the-badge&labelColor=0d0d1a)
+![Issues](https://img.shields.io/badge/🔥_Issues-Solver-ff9f43?style=for-the-badge&labelColor=0d0d1a)
+![PRs](https://img.shields.io/badge/🚀_PRs-Contributor-00ff88?style=for-the-badge&labelColor=0d0d1a)
+
+</div>
 
 </div>
 
